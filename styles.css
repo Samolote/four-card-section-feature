@@ -58,8 +58,9 @@ html {
 .card {
 	position: relative;
 	padding: 2rem;
-	border-top-style: solid;
-	border-top-width: 4px;
+	border-top: 4px solid hsl(228, 45%, 44%);
+	/* border-top-style: solid;
+	border-top-width: 4px; */
 	border-radius: 6px;
 	height: 275px;
 	background-color: #fff;
